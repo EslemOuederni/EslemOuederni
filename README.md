@@ -12,3 +12,6 @@ I'm a volunteer instructor with <a href='https://codefirstgirls.com/'> Code Firs
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EslemOuederni&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EslemOuederni&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Skills:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,nodejs,express,java,symfony,mongodb,mysql,git,github,vercel,vscode,figma&theme=dark)](https://skillicons.dev)
