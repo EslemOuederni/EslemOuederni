@@ -8,8 +8,10 @@ I'm a volunteer instructor with <a href='https://codefirstgirls.com/'> Code Firs
 <hr>
 
 ### :fire: My Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EslemOuederni&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EslemOuederni&theme=dark&show_icons=true&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EslemOuederni&theme=dark&hide_border=true"/>
+</a>
 <br>
 
 ### My Skills:
