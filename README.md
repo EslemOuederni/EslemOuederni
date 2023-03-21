@@ -1,16 +1,22 @@
 ### Hi, I'm Eslem 👋 💻
 
 <hr>
-I'm a computer student, I had my bachelor at ISAMM univeristy and now I'm attending ESPRIT. Though, I’m currently having a gap year, where I'll be challenging myself to learn new technologies and improve myself.
+I'm a computer science student, I had my bachelor at ISAMM univeristy and now I'm attending ESPRIT. Though, I’m currently on a gap year, where I'll be challenging myself to learn new technologies and improve myself.
+
+I'm currently:
+
+- 💻 Working on my reactjs [dashboard](https://github.com/EslemOuederni/transportation-app-dashboard) for a transportation system.
+- :woman_teacher: Teaching with  <a href='https://codefirstgirls.com/'> Code First girls</a> for their CFG degree fullstack dev course.
+- 📝 Learning GraphQl
+- :briefcase: Applying for jobs
+- :octocat: Open source !
 <br>
-My plan till the end of 2022 is to build a fullstack website using the MERN stack. After that, I'll put my focus on mobile development, using react-native mostly but also Android.
-I'm a volunteer instructor with <a href='https://codefirstgirls.com/'> Code First girls</a> and a volunteer mentor with  <a href="https://frontendfoxes.school/ourschool">Front-end Foxes </a>
+I have been a volunteer instructor with <a href='https://codefirstgirls.com/'> Code First girls</a> and a volunteer mentor with  <a href="https://frontendfoxes.school/ourschool">Front-end Foxes </a>
 <hr>
 
 ### :fire: My Stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EslemOuederni&theme=dark&show_icons=true&hide_border=true"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=EslemOuederni&theme=dark&hide_border=true"/>
 </a>
 <br>
 
