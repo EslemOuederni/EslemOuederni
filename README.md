@@ -1,11 +1,10 @@
 ### Hi, I'm Eslem 👋 💻
 
 <hr>
-I'm a computer science student, I had my bachelor at ISAMM univeristy and now I'm attending ESPRIT. Though, I’m currently on a gap year, where I'll be challenging myself to learn new technologies and improve myself.
-
+I'm a computer science student, I had my bachelor at ISAMM univeristy and now I'm working as a web developer at [IntermediaKT](https://intermediakt.org/).
 I'm currently:
 
-- 💻 Working on my reactjs [dashboard](https://github.com/EslemOuederni/transportation-app-dashboard) for a transportation system.
+- 💻 Working on a chat app.
 - :woman_teacher: Teaching with  <a href='https://codefirstgirls.com/'> Code First girls</a> for their CFG degree fullstack dev course.
 - 📝 Learning GraphQl
 - :briefcase: Applying for jobs
