@@ -2,6 +2,7 @@
 
 <hr>
 I'm a computer science student, I had my bachelor at ISAMM univeristy and now I'm working as a web developer at <a href="https://intermediakt.org/"> IntermediaKT</a>.
+
 I'm currently:
 
 - 💻 Working on a chat app.
